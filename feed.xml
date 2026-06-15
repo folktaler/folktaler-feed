@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <title>Folktaler Fiction</title>
+  <link>https://folktaler.github.io/folktaler-feed</link>
+  <language>en</language>
+  <description>Curated learning content as audio plus slides.</description>
+  <lastBuildDate>Mon, 15 Jun 2026 11:50:49 +0000</lastBuildDate>
+  <atom:link href="https://folktaler.github.io/folktaler-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Folktaler</itunes:author>
+  <itunes:summary>Curated learning content as audio plus slides.</itunes:summary>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:image href="https://folktaler.github.io/folktaler-feed/cover.png"/>
+  <itunes:category text="Education"/>
+  <itunes:owner>
+    <itunes:name>Shemeer P</itunes:name>
+    <itunes:email>shemeer@aikyamhq.com</itunes:email>
+  </itunes:owner>
+</channel>
+</rss>
