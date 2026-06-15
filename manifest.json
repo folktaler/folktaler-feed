@@ -1,0 +1,32 @@
+{
+  "episodes": [
+    {
+      "guid": "dc4c2dbd-0cae-4d2d-a446-18a5e1d0ac48",
+      "title": "Why Exponential Growth Looks Like Cheating",
+      "slug": "why-exponential-growth-looks-like-cheating",
+      "summary": "Why compounding curves outrun our straight-line intuition \u2014 and how to spot exponential dynamics everywhere.",
+      "description_html": "<p>Exponential growth feels like cheating because our brains are wired for straight lines, not compounding curves. This episode unpacks why a quantity that doubles again and again outruns intuition \u2014 and how to spot exponential dynamics in money, technology, populations, and learning.</p><p><strong>In this episode:</strong></p><ul><li>Linear vs. exponential \u2014 why the difference sneaks up on you</li><li>The power of doubling and the rule of 72</li><li>Why early exponential growth looks deceptively slow</li><li>Real-world examples: compounding, viral spread, and scaling systems</li><li>How to train your intuition to respect the curve</li></ul>",
+      "keywords": [
+        "exponential growth",
+        "compounding",
+        "doubling",
+        "rule of 72",
+        "learning",
+        "mathematics"
+      ],
+      "episode_no": 1,
+      "season": 1,
+      "type": "full",
+      "explicit": false,
+      "link": "https://folktaler.github.io/folktaler-feed",
+      "image_url": "https://folktaler.github.io/folktaler-feed/cover.png",
+      "pub_date": "2026-06-15T11:55:21.470893+00:00",
+      "audio_file": "why-exponential-growth-looks-like-cheating-dc4c2dbd.m4a",
+      "audio_url": "https://folktaler.github.io/folktaler-feed/audio/why-exponential-growth-looks-like-cheating-dc4c2dbd.m4a",
+      "duration": 1173,
+      "length_bytes": 37755593,
+      "mime": "audio/mp4",
+      "imported": false
+    }
+  ]
+}

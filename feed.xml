@@ -5,7 +5,7 @@
   <link>https://folktaler.github.io/folktaler-feed</link>
   <language>en</language>
   <description>Curated learning content as audio plus slides.</description>
-  <lastBuildDate>Mon, 15 Jun 2026 11:50:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 11:55:21 +0000</lastBuildDate>
   <atom:link href="https://folktaler.github.io/folktaler-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Folktaler</itunes:author>
   <itunes:summary>Curated learning content as audio plus slides.</itunes:summary>
@@ -16,5 +16,23 @@
     <itunes:name>Shemeer P</itunes:name>
     <itunes:email>shemeer@aikyamhq.com</itunes:email>
   </itunes:owner>
+  <item>
+    <title>Why Exponential Growth Looks Like Cheating</title>
+    <guid isPermaLink="false">dc4c2dbd-0cae-4d2d-a446-18a5e1d0ac48</guid>
+    <pubDate>Mon, 15 Jun 2026 11:55:21 +0000</pubDate>
+    <link>https://folktaler.github.io/folktaler-feed</link>
+    <enclosure url="https://folktaler.github.io/folktaler-feed/audio/why-exponential-growth-looks-like-cheating-dc4c2dbd.m4a" length="37755593" type="audio/mp4"/>
+    <itunes:duration>19:33</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Why compounding curves outrun our straight-line intuition — and how to spot exponential dynamics everywhere.</itunes:subtitle>
+    <itunes:summary>Why compounding curves outrun our straight-line intuition — and how to spot exponential dynamics everywhere.</itunes:summary>
+    <description><![CDATA[<p>Exponential growth feels like cheating because our brains are wired for straight lines, not compounding curves. This episode unpacks why a quantity that doubles again and again outruns intuition — and how to spot exponential dynamics in money, technology, populations, and learning.</p><p><strong>In this episode:</strong></p><ul><li>Linear vs. exponential — why the difference sneaks up on you</li><li>The power of doubling and the rule of 72</li><li>Why early exponential growth looks deceptively slow</li><li>Real-world examples: compounding, viral spread, and scaling systems</li><li>How to train your intuition to respect the curve</li></ul>]]></description>
+    <content:encoded><![CDATA[<p>Exponential growth feels like cheating because our brains are wired for straight lines, not compounding curves. This episode unpacks why a quantity that doubles again and again outruns intuition — and how to spot exponential dynamics in money, technology, populations, and learning.</p><p><strong>In this episode:</strong></p><ul><li>Linear vs. exponential — why the difference sneaks up on you</li><li>The power of doubling and the rule of 72</li><li>Why early exponential growth looks deceptively slow</li><li>Real-world examples: compounding, viral spread, and scaling systems</li><li>How to train your intuition to respect the curve</li></ul>]]></content:encoded>
+    <itunes:keywords>exponential growth,compounding,doubling,rule of 72,learning,mathematics</itunes:keywords>
+    <itunes:image href="https://folktaler.github.io/folktaler-feed/cover.png"/>
+  </item>
 </channel>
 </rss>
