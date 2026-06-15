@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
   <title>Folktaler Fiction</title>
-  <link>https://folktaler.github.io/folktaler-feed</link>
+  <link>https://folktaler.github.io/folktaler-feed/folktaler-fiction</link>
   <language>en</language>
   <description>Curated learning content as audio plus slides.</description>
-  <lastBuildDate>Mon, 15 Jun 2026 11:55:21 +0000</lastBuildDate>
-  <atom:link href="https://folktaler.github.io/folktaler-feed/feed.xml" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>Mon, 15 Jun 2026 12:00:41 +0000</lastBuildDate>
+  <atom:link href="https://folktaler.github.io/folktaler-feed/folktaler-fiction/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Folktaler</itunes:author>
   <itunes:summary>Curated learning content as audio plus slides.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
-  <itunes:image href="https://folktaler.github.io/folktaler-feed/cover.png"/>
+  <itunes:image href="https://folktaler.github.io/folktaler-feed/folktaler-fiction/cover.png"/>
   <itunes:category text="Education"/>
   <itunes:owner>
     <itunes:name>Shemeer P</itunes:name>
@@ -20,8 +20,8 @@
     <title>Why Exponential Growth Looks Like Cheating</title>
     <guid isPermaLink="false">dc4c2dbd-0cae-4d2d-a446-18a5e1d0ac48</guid>
     <pubDate>Mon, 15 Jun 2026 11:55:21 +0000</pubDate>
-    <link>https://folktaler.github.io/folktaler-feed</link>
-    <enclosure url="https://folktaler.github.io/folktaler-feed/audio/why-exponential-growth-looks-like-cheating-dc4c2dbd.m4a" length="37755593" type="audio/mp4"/>
+    <link>https://folktaler.github.io/folktaler-feed/folktaler-fiction</link>
+    <enclosure url="https://folktaler.github.io/folktaler-feed/folktaler-fiction/audio/why-exponential-growth-looks-like-cheating-dc4c2dbd.m4a" length="37755593" type="audio/mp4"/>
     <itunes:duration>19:33</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:episode>1</itunes:episode>
@@ -32,7 +32,7 @@
     <description><![CDATA[<p>Exponential growth feels like cheating because our brains are wired for straight lines, not compounding curves. This episode unpacks why a quantity that doubles again and again outruns intuition — and how to spot exponential dynamics in money, technology, populations, and learning.</p><p><strong>In this episode:</strong></p><ul><li>Linear vs. exponential — why the difference sneaks up on you</li><li>The power of doubling and the rule of 72</li><li>Why early exponential growth looks deceptively slow</li><li>Real-world examples: compounding, viral spread, and scaling systems</li><li>How to train your intuition to respect the curve</li></ul>]]></description>
     <content:encoded><![CDATA[<p>Exponential growth feels like cheating because our brains are wired for straight lines, not compounding curves. This episode unpacks why a quantity that doubles again and again outruns intuition — and how to spot exponential dynamics in money, technology, populations, and learning.</p><p><strong>In this episode:</strong></p><ul><li>Linear vs. exponential — why the difference sneaks up on you</li><li>The power of doubling and the rule of 72</li><li>Why early exponential growth looks deceptively slow</li><li>Real-world examples: compounding, viral spread, and scaling systems</li><li>How to train your intuition to respect the curve</li></ul>]]></content:encoded>
     <itunes:keywords>exponential growth,compounding,doubling,rule of 72,learning,mathematics</itunes:keywords>
-    <itunes:image href="https://folktaler.github.io/folktaler-feed/cover.png"/>
+    <itunes:image href="https://folktaler.github.io/folktaler-feed/folktaler-fiction/cover.png"/>
   </item>
 </channel>
 </rss>
